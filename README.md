@@ -9,27 +9,61 @@
   </a>
 </div>
 
----
+<br/>
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the **MERN stack** and **UI/UX design**. I enjoy building impactful, scalable systems—from designing the database schema to crafting the final responsive frontend experience.
-
-- 🔭 **Currently Working On:** [**AgroBridge**](https://github.com/Eranda342/AgroBridge) — A Smart Paddy Stock & Supply Management System designed to connect farmers and rice mill owners.
-- 🎨 **Also exploring:** Designing high-fidelity web application prototypes and modern UI/UX flows.
-- 🎓 **Education:** Final-year student, NSBM Green University / University of Plymouth.
-- 🌱 **Currently learning:** Advanced System Design & Performance Optimization.
-- ⚡ **Fun fact:** I love connecting the dots between complex backends and beautiful user interfaces!
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      I'm a <b>Full-Stack Developer</b> based in Sri Lanka 🇱🇰, specializing in the <b>MERN stack</b> and <b>UI/UX design</b>. I thrive on building impactful, scalable systems—taking ideas all the way from database schema design to crafting the final seamless frontend experience.
+      <br><br>
+      <ul>
+        <li>🎓 <b>Education:</b> Final-year student, NSBM Green University / University of Plymouth.</li>
+        <li>🌱 <b>Currently learning:</b> Advanced System Design & Performance Optimization.</li>
+        <li>⚡ <b>Fun fact:</b> I love connecting the dots between complex backends and beautiful user interfaces!</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,figma,git,vscode,postman,github,azure,discord&theme=dark&perline=8" alt="My Skills" />
+  <a href="https://github.com/Eranda342/AgroBridge">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Eranda342&repo=AgroBridge&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="AgroBridge Repo" />
   </a>
+  <br>
+  <i>A Smart Paddy Stock & Supply Management System designed to connect farmers and rice mill owners.</i>
 </div>
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🎨 Frontend & Design</h4>
+      <p><i>Crafting intuitive and responsive UI</i></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,figma&theme=dark&perline=4" alt="Frontend" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>⚙️ Backend & Tools</h4>
+      <p><i>Building scalable and robust APIs</i></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,azure,discord&theme=dark&perline=5" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,7 +71,6 @@ I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the 
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eranda342&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="Eranda's GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranda342&theme=react&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="Eranda's GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eranda342&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Eranda's Top Languages" />
@@ -62,7 +95,8 @@ I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the 
 <br>
 
 <div align="center">
-  <i>⭐️ Feel free to explore my pinned repositories below! ⭐️</i>
+  <b>Visitor Count</b><br>
+  <img src="https://komarev.com/ghpvc/?username=Eranda342&color=2196F3&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
