@@ -36,11 +36,11 @@ I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eranda342&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="Eranda's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eranda342&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="Eranda's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranda342&theme=react&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="Eranda's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranda342&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Eranda's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eranda342&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3" alt="Eranda's Top Languages" />
 </div>
 
 ---
