@@ -48,13 +48,13 @@ I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the 
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="www.linkedin.com/in/eranda-buddhika342">
+  <a href="https://www.linkedin.com/in/eranda-buddhika342">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:erandabuddhika007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="...">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
   </a>
 </div>
