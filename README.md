@@ -19,7 +19,7 @@
       I'm a <b>Full-Stack Developer</b> based in Sri Lanka 🇱🇰, specializing in the <b>MERN stack</b> and <b>UI/UX design</b>. I thrive on building impactful, scalable systems—taking ideas all the way from database schema design to crafting the final seamless frontend experience.
       <br><br>
       <ul>
-        <li>🎓 <b>Education:</b> Final-year student, NSBM Green University / University of Plymouth.</li>
+        <li>🎓 <b>Education:</b> Final-year BSc (Hons) Computer Science student, NSBM Green University / University of Plymouth.</li>
         <li>🌱 <b>Currently learning:</b> Advanced System Design & Performance Optimization.</li>
         <li>⚡ <b>Fun fact:</b> I love connecting the dots between complex backends and beautiful user interfaces!</li>
       </ul>
