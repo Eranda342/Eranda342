@@ -35,8 +35,8 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Eranda342/AgroBridge">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Eranda342&repo=AgroBridge&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="AgroBridge Repo" />
+  <a href="https://github.com/Eranda342/Smart-Paddy-Stock-Supply-Management-System">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Eranda342&repo=Smart-Paddy-Stock-Supply-Management-System&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3" alt="AgroBridge Repo" />
   </a>
   <br>
   <i>A Smart Paddy Stock & Supply Management System designed to connect farmers and rice mill owners.</i>
