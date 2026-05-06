@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Eranda! 👋
 
-<!--
-**Eranda342/Eranda342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year student and Full-Stack Developer specializing in the MERN stack and UI/UX design. I enjoy building impactful, scalable systems from database schema design all the way to the frontend experience.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+* **AgroBridge:** A Smart Paddy Stock & Supply Management System connecting farmers and rice mill owners in Sri Lanka.
+* Designing high-fidelity web application prototypes and UI/UX flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* Final-year student, NSBM Green University / University of Plymouth.
+
+### 💻 Tech Stack & Tools
+* **Frontend:** React, HTML5, CSS3, Tailwind
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Design & Workflow:** Figma, Git, VS Code, GitHub Copilot
+
+### 📫 How to Reach Me
+* **LinkedIn:** [Insert Link Here]
+* **Portfolio:** [Insert Link Here]
+* **Email:** [Insert Email Here]
+
+---
+⭐️ *Feel free to explore my pinned repositories below!*
