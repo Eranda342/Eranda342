@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** based in Sri Lanka 🇱🇰, specializing in the 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,figma,git,vscode,postman,github&theme=dark&perline=14" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,figma,git,vscode,postman,github,azure,discord&theme=dark&perline=8" alt="My Skills" />
   </a>
 </div>
 
